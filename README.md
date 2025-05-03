@@ -1,7 +1,7 @@
 <h1 align="center">Hii👋, I'm Umar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=object-oriented-guy19&label=Profile%20views&color=0e75b6&style=flat" alt="object-oriented-guy19" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Umergundoo19dev&label=Profile%20views&color=0e75b6&style=flat" alt="object-oriented-guy19" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=object-oriented-guy19" alt="object-oriented-guy19" /></a> </p>
 
